@@ -2,3 +2,5 @@
 /.vscode
 /newtest.ipynb
 /__pycache__
+
+spectrum_rawdata.csv
